@@ -1,7 +1,7 @@
 # Project: autoclicker
 
 ## Description
-Automates clicking of mouse. Currently only right mouse button at 1k clicks per minute. It will listen for a hotkey to stop it.
+Python3 script that automates clicking of mouse. Currently only right mouse button at 1k clicks per minute. It will listen for a hotkey to stop it.
 
 ## Motivation
 I used to play a game which required the user to right click repeatedly to move a small creature around an obstacle course.
