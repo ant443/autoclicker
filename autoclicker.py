@@ -92,4 +92,5 @@ autoClicker()
 
 # TODO:
 # Allow user to pick mouse button(left/right) on gui.
-
+# Allow user to set speed of clicking.
+# Allow user to choose hotkey.
