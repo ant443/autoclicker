@@ -90,5 +90,6 @@ def autoClicker():
     
 autoClicker()
 
-
+# TODO:
+# Allow user to pick mouse button(left/right) on gui.
 
