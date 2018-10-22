@@ -19,7 +19,7 @@ Clone/download repository to harddrive
 ## Usage
 Run the script from command line:
 cd to project folder in command line then type the following line and press enter:  
-python autoclicker.py
+python autoclicker.py  
 Or if that didn't work try:  
 python3 autoclicker.py
 
